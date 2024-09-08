@@ -1,2 +1,2 @@
 # CDELOS
-An mutlifuncional multi os to display graphics and minimal programs
+An mutlifuncional mini os to display graphics and minimal programs
